@@ -1,4 +1,3 @@
-```markdown
 # Little Lemon Restaurant API
 
 ## Description
