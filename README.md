@@ -67,8 +67,6 @@ Each request requires a SimpleJWT token for authorization. Include the token in 
 {'Authorization': 'JWT <token>'}
 ```
 
-#### Insomnia Token Setup:
-![Token Setup](assets/insomnia.png)
 
 ### `api` Endpoints
 ```bash
